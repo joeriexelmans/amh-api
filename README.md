@@ -11,8 +11,8 @@ The Alps have hundreds of mountain huts. Most require upfront reservation to spe
 A number of people have already created web apps that bring together information from different reservation systems, such as:
 
   - [hutfinder.app](https://hutfinder.app/)
-  - [madetohike.com/hut-map](https://madetohike.com/hut-map)
   - [refugesdesalpes.com](https://refugesdesalpes.com/) FFCAM & SAC
+  - [madetohike.com/hut-map](https://madetohike.com/hut-map)
 
 However:
 
@@ -49,7 +49,7 @@ The main purpose of this project is to build a single REST API that brings toget
 Currently, two data sources have been implemented:
 
  - [hut-reservation.org](https://hut-reservation.org/) has a public API with *all* the mountain huts from OEAV (Austria), DAV (Germany), SAC (Switzerland), AVS (South-Tyrol).
-    - Note: to use this API, you need to authenticate with a (free) account.
+    - Note: to use this API, you need to [authenticate](./src/data-sources/hut-reservation.org/config.ts) with a (free) account.
  - [ffcam.fr](https://ffcam.fr) does not have a public API, so I crawl the HTML of their booking wizard and also another web page of theirs listing all huts. No account is necessary to for this data source.
 
 What's missing:
