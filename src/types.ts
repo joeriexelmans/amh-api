@@ -1,4 +1,4 @@
-import { CacheEntry } from "./common/cache";
+import { CacheEntry } from "./util/cache";
 
 export type Hut = {
   dataSource: string, // "hut-reservation.org" | "ffcam.fr",

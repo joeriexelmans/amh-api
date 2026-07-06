@@ -1,7 +1,7 @@
-import { makeCache } from "../../common/cache";
+import { makeCache } from "../../util/cache";
 import * as cheerio from 'cheerio';
 import {distance} from "fastest-levenshtein";
-import { deepLog } from "../../common/deep_inspect";
+import { deepLog } from "../../util/deep_inspect";
 import { Category, CategoryAvailability, CategoryDescription, DataSource, HutAvailability, HutInfo } from "../../types";
 import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 

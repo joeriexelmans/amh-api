@@ -1,7 +1,7 @@
-import { CacheEntry } from "./common/cache";
-import { deepLog } from "./common/deep_inspect";
-import { arraysEqual } from "./common/equal";
-import { memoize } from "./common/memoize";
+import { CacheEntry } from "./util/cache";
+import { deepLog } from "./util/deep_inspect";
+import { arraysEqual } from "./util/equal";
+import { memoize } from "./util/memoize";
 import { FFCAM } from "./data-sources/ffcam.fr/ffcam"
 import { HR } from "./data-sources/hut-reservation.org/hr"
 import { DataSource } from "./types";

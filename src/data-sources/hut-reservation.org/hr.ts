@@ -1,4 +1,4 @@
-import { CacheEntry, makeCache } from "../../common/cache";
+import { CacheEntry, makeCache } from "../../util/cache";
 import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 import { Category, DataSource, Hut } from "../../types";
 import { credentials } from "./config";
