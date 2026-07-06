@@ -20,7 +20,7 @@ However:
   - They all **re-implement** some part of the same **boring** data aggregation/federation functionality!
   - None of them offer the UI that I want (see Epilogue ...)
 
-So instead of doing the same thing and creating yet another app that only has a subset of mountain huts, this project is my attempt at creating an open-source, **collaborative** effort to creating a **federated API** that anyone can use, extend, and easily run on their own machines.
+Hence, the need for an open-source, **collaborative** effort to creating a **federated API** that anyone can use, extend, and easily run on their own machines.
 
 ## Goal
 
@@ -28,20 +28,21 @@ The main purpose of this project is to build a single REST API that brings toget
 
 ## Implementation Decisions
 
- - The service runs entirely **in-memory**.
-     - All hypothetical information on *all* mountain huts only consumes a couple of megabytes! (let's say 100 MB at most)
-     - It greatly **simplifies deployment**: no need to set up a file system or database. It should be easy for anyone to host an instance of this API (no single point of failure).
-
- - Collected information is **extensively cached**
-     - to minimize latency
-     - to prevent flooding our data sources with requests (and getting banned)
-     - Cache duration is configurable. Defaults are:
-        - 4 hours for static data
-        - 5 minutes for reservation status
-
-## Documentation
-
-The API is not yet stable. For now, have a look at the TypeScript definitions in [types.ts](./src/types.ts) to get an idea of what information is offered.
+ - All information is fetched **lazily** and **extensively cached**
+     - to minimize load on our data sources (we don't want to get banned)
+     - caching minimizes latency and load:
+        - requests to data sources are cached in the service
+        - responses to clients:
+            - have the 'Cache-Control' header properly set (so browsers will automatically cache them correctly)
+            - have a data field (in JSON) indicating how old the information is - this can be shown to the end-user.
+        - cache duration is configurable. Defaults are:
+            - 4 hours for static data
+            - 5 minutes for reservation status
+                 - there's also an endpoint to 'force refresh' this information to get the latest version no matter what.
+ - The entire service (including the cache) runs **in-memory**.
+     - because we can: all collected information on *all* mountain huts would only consume a couple of megabytes! (let's say 100 MB at most)
+     - it **simplifies deployment**: no need to set up a file system or database. It should be easy for anyone to host an instance of this API (no single point of failure).
+     - (it's also fast and easy to implement!)
 
 ## Data sources
 
@@ -54,7 +55,11 @@ Currently, two data sources have been implemented:
 What's missing:
  - **France** has many private (non-FFCAM) huts as well. Some (e.g., in the Vanoise parc) all use a single booking system, so it's quite realistic that a bunch more will be added soon.
  - **Italy**: I have to check what kind of reservation system(s) exist there.
- - private huts in Austria, Germany, Switzerland, South-Tirol (although there aren't that much).
+ - **private huts** in Austria, Germany, Switzerland, South-Tirol (although there aren't that much).
+
+## API Documentation
+
+The API is not yet stable. For now, have a look at the TypeScript definitions in [types.ts](./src/types.ts) to get an idea of what information is currently being offered.
 
 ## Epilogue: My 'cunning plan' ...
 
