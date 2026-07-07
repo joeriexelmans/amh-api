@@ -50,7 +50,6 @@ export type HutAvailability = {
 
 export type CategoryAvailability = Category & {
   numFree: number,
-  numBeds: number,
 }
 
 export type DataSource = {

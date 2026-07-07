@@ -26,7 +26,9 @@ Hence, the need for an open-source, **collaborative** effort to creating a **fed
 
 The main purpose of this project is to build a single REST API that brings together information on as many Alpine mountain huts as possible, most importantly **reservation status information**.
 
-## Implementation Decisions
+## Implementation
+
+![architecture](./docs/images/architecture.svg)
 
  - All information is fetched **lazily** and **extensively cached**
      - to minimize load on our data sources (we don't want to get banned)
@@ -44,7 +46,7 @@ The main purpose of this project is to build a single REST API that brings toget
      - it **simplifies deployment**: no need to set up a file system or database. It should be easy for anyone to host an instance of this API (no single point of failure).
      - (it's also fast and easy to implement!)
 
-## Data sources
+### Data sources
 
 Currently, two data sources have been implemented:
 
@@ -57,12 +59,25 @@ What's missing:
  - **Italy**: I have to check what kind of reservation system(s) exist there.
  - **private huts** in Austria, Germany, Switzerland, South-Tirol (although there aren't that much).
 
+## Running
+
+1. Install [bun](https://bun.com).
+2. Install dependencies: `bun i`
+3. Run the API: `bun src/main.ts`
+
 ## API Documentation
 
 The API is not yet stable. For now, have a look at the TypeScript definitions in [types.ts](./src/types.ts) to get an idea of what information is currently being offered.
 
-## Epilogue: My 'cunning plan' ...
+## Contributing
 
+Contributions are welcome!
+
+Also, if you have any feedback, ideas or other inquiries, don't be shy to:
+  - create an issue
+  - [e-mail me](mailto:joeri.exelmans@gmail.com)
+
+## Epilogue: My 'cunning plan' ...
 
 When planning a hut-to-hut trip, I usually visit all the different reservation websites manually and collect information about hut availability in a spreadsheet, like so:
 

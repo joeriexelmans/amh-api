@@ -1,6 +1,10 @@
 export type CacheEntry<T> = {
   result: Promise<T>,
+
+  // when was the entry requested?
   lastUpdate: number, // millisecs since Unix epoch
+
+  // until when before the entry will be refreshed?
   validUntil: number, // millisecs since Unix epoch
 }
 

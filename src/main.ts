@@ -5,42 +5,7 @@ import { memoize } from "./util/memoize";
 import { FFCAM } from "./data-sources/ffcam.fr/ffcam"
 import { HR } from "./data-sources/hut-reservation.org/hr"
 import { DataSource } from "./types";
-
-// listHutsFFCAM().result.then(deepLog);
-
-// Ref du Carro
-// getHutInfoFFCAM("BK_STRUCTURE:48").result.then(deepLog);
-// getHutAvailabilityFFCAM.get("BK_STRUCTURE:48").result.then(deepLog);
-
-// Ref du Col de la Vanoise
-// getHutInfoFFCAM("BK_STRUCTURE:45").result.then(deepLog);
-
-
-// getHutInfoFFCAM("BK_STRUCTURE:96").result.then(deepLog);
-
-
-// Refuge with both dormitory and bivouac:
-// getHutAvailabilityFFCAM.get("BK_STRUCTURE:106").result.then(deepLog);
-
-// Dresdner huette
-// getHutInfoOEAV("692").result.then(deepLog);
-
-// const result = getHutAvailabilityOEAV("691");
-// result.result.then(body => {
-//   console.log(body.slice(0, 10));
-// });
-
-
-// const result2 = getHutAvailabilityFFCAM.get("BK_STRUCTURE:53");
-// result2.result.then(body => {
-//   console.log(body);
-// });
-
-
-// listHutsOEAV().result.then(huts => console.log(huts.slice(0,10)));
-
-
-// listHutsFFCAM().result.then(huts => console.log(huts.slice(0,10)));
+import * as Bun from "bun";
 
 const dataSources: {[key: string]: DataSource} = {
   "ffcam.fr": FFCAM,
@@ -73,7 +38,10 @@ async function respondWithCacheEntry(cacheEntry: CacheEntry<any>) {
     response: json,
   }, {
     headers: {
-      "Cache-Control": `max-age=${computeMaxAge(cacheEntry.validUntil)}`
+      // cache-control header matches expiry of our own cache
+      "Cache-Control": `max-age=${computeMaxAge(cacheEntry.validUntil)}`,
+      // allow cross-origin requests
+      "Access-Control-Allow-Origin": "*",
     }
   });
 }
