@@ -8,6 +8,9 @@ export type CacheEntry<T> = {
   validUntil: number, // millisecs since Unix epoch
 }
 
+// Given a 'cache duration' and a callback that makes an asynchronous request parameterized by some key, return two functions:
+//  get: performs the request (caching the result) or returns the cached result if not stale.
+//  forceRefresh: like get, but always performs the request (and caches the result).
 export function makeCache<T>(validDuration: number, callback: (key: string) => Promise<T>) {
   const cache = new Map<String, CacheEntry<T>>();
 

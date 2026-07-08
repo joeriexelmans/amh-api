@@ -1,0 +1,7512 @@
+[
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:85",
+    "name": "Refuge de l'Aigle (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        },
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:RESTAURATION",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Restauration"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Restauration"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Restauration"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Restauration"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Restauration"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:58",
+    "name": "Refuge des Aiguilles d'Arves  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:22",
+    "name": "Refuge Albert 1er  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:74",
+    "name": "Refuge de l'Alpe de Villar d'Arène (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:54",
+    "name": "Refuge d'Ambin  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:124",
+    "name": "Refuge d'Arrémoulit  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:53",
+    "name": "Refuge d'Averole  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:68",
+    "name": "Refuge des Bans  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:107",
+    "name": "Refuge de Bayssellance  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:125",
+    "name": "Refuge des Bésines  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:46",
+    "name": "Chalet de Bonneval sur Arc  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:112",
+    "name": "Refuge de la Brèche de Roland - Les Sarradets (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:113",
+    "name": "Refuge de Campana de Cloutou  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5u8934wt7",
+    "name": "Refuge de Campana de Cloutou Non Gardé (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:48",
+    "name": "Refuge du Carro  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:63",
+    "name": "Refuge de Chabourneou  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:97",
+    "name": "Refuge de Chambeyron  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:67",
+    "name": "Refuge du Clot - Xavier Blanc  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:45",
+    "name": "Refuge du Col de la Vanoise",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5snuwv3sr",
+    "name": "Refuge du Col de la Vanoise Non Gardé",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:34",
+    "name": "Refuge des Conscrits  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:4m2wkebwwg2f",
+    "name": "Chalet des Contamines  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:129",
+    "name": "Refuge des Cortalets  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:91",
+    "name": "Refuge de Cougourde  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:24",
+    "name": "Refuge du Couvercle  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5u8jh7i7h",
+    "name": "Refuge du Couvercle Non Gardé (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:35",
+    "name": "Refuge de la Croix du Bonhomme  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:13",
+    "name": "Refuge de la Dent d'Oche  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:52",
+    "name": "Refuge de la Dent Parrachée",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:59",
+    "name": "Refuge des Drayères  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:82",
+    "name": "Refuge des Ecrins (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:26",
+    "name": "Refuge de l'Envers des Aiguilles  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:111",
+    "name": "Refuge d'Espingo  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:128",
+    "name": "Refuge de l'Etang d'Araing  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:126",
+    "name": "Refuge de l'Etang Fourcat  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:127",
+    "name": "Refuge de l'Etang Pinet  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:57",
+    "name": "Refuge de l'Etendard  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:47",
+    "name": "Refuge des Evettes  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:47ntr9jg1dif",
+    "name": "Chalet alpin l'Eychauda  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:51",
+    "name": "Refuge du Fond d'Aussois",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:71",
+    "name": "Refuge de Font Turbat  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:94",
+    "name": "Refuge de Gialorgues  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:72",
+    "name": "Refuge du Glacier Blanc  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:123",
+    "name": "Chalet de Gourette  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:44",
+    "name": "Refuge du Grand Bec  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:28",
+    "name": "Refuge des Grands Mulets",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:116",
+    "name": "Chalet la Grange de Holle  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:15",
+    "name": "Chalet du Graydon  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:139",
+    "name": "Refuge de la Glère  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:76",
+    "name": "Refuge de la Lavey  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:100",
+    "name": "Chalet de la Maline - Verdon  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:56",
+    "name": "Refuge de la Pra  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5u8l09uta",
+    "name": "Refuge de la Pra Non Gardé",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:5",
+    "name": "Chalet du Langenberg  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:121",
+    "name": "Refuge de Larribet  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:47ntqvy8e2a1",
+    "name": "Chalet Alpin du Tour  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:65",
+    "name": "Refuge des Souffles  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:25",
+    "name": "Refuge de Leschaux  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:87",
+    "name": "Chalet de la Madone de Fenestre  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:98",
+    "name": "Chalet de Maljasset  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:110",
+    "name": "Refuge du Maupas (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:88",
+    "name": "Refuge des Merveilles  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:38",
+    "name": "Refuge du Mont Pourri  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:60",
+    "name": "Refuge du Mont Thabor  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:90",
+    "name": "Refuge de Nice  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:70",
+    "name": "Refuge de l'Olan  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:117",
+    "name": "Refuge des Oulettes de Gaube  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:17",
+    "name": "Refuge du Parmelan  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:84",
+    "name": "Refuge du Pavé  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:50",
+    "name": "Refuge de Péclet-Polset",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:79",
+    "name": "Refuge du Pelvoux  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:69",
+    "name": "Refuge du Pigeonnier  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:4",
+    "name": "Chalet du Plain du Canon  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:36",
+    "name": "Chalet du Plan de la Lai  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:40",
+    "name": "Refuge du Plan des Gouilles  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:20",
+    "name": "Refuge de Platé  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:18",
+    "name": "Refuge de La Pointe Percée - Gramusset (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:106",
+    "name": "Refuge de Pombie  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:BIVOUAC",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Camp de Base / Marabout",
+              "description": "Bivouac Autonome"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Camp de Base / Marabout"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Camp de Base / Marabout",
+              "description": "Vivac autónomo"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Camp de Base / Marabout",
+              "description": "Bivacco autonomo"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Camp de Base / Marabout",
+              "description": "Bivouaqueur Autonome"
+            }
+          ]
+        },
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:109",
+    "name": "Refuge du Portillon  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:61",
+    "name": "Refuge du Pré la Chaumette  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:37",
+    "name": "Refuge de Presset  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:75",
+    "name": "Refuge du Promontoire  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:93",
+    "name": "Refuge de Rabuons  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:11",
+    "name": "Chalet-refuge du Ratou  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:103",
+    "name": "Chalet de Saint Guilhem le Désert  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:101",
+    "name": "Chalet du Sancy  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:78",
+    "name": "Refuge du Sélé  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        },
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:RESTAURATION",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Restauration"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Restauration"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Restauration"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Restauration"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Restauration"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:80",
+    "name": "Refuge de Temple Ecrins  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:2",
+    "name": "Chalet-refuge des Trois-Fours  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:9",
+    "name": "Chalet des Tuffes  (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:62",
+    "name": "Refuge de Vallonpierre  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:89",
+    "name": "Refuge de la Valmasque  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5u8xxgiou",
+    "name": "Refuge de la Valmasque Non Gardé (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:104",
+    "name": "Chalet de Vauchignon  (FFCAM)",
+    "country": "FR",
+    "hutType": "CHALET",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:108",
+    "name": "Refuge de Vénasque  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:xxx5u8xycgku",
+    "name": "Refuge de Vénasque Non Gardé (FFCAM)",
+    "country": "FR",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:95",
+    "name": "Refuge des Lacs de Vens  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "ffcam.fr",
+    "id": "BK_STRUCTURE:96",
+    "name": "Refuge du Viso  (FFCAM)",
+    "country": "FR",
+    "hutType": "REFUGE",
+    "sleepingPlaces": {
+      "categories": [
+        {
+          "categoryID": "BK_PRODUCTCATEGORY:NUITEE",
+          "description": [
+            {
+              "language": "FR_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            },
+            {
+              "language": "GB_EN",
+              "label": "Dortoirs",
+              "description": "Rooms with Half board"
+            },
+            {
+              "language": "ES_ES",
+              "label": "Dortoirs",
+              "description": "Habitaciones con media pensión"
+            },
+            {
+              "language": "IT_IT",
+              "label": "Dortoirs",
+              "description": "Camere in mezza pensione"
+            },
+            {
+              "language": "CA_FR",
+              "label": "Dortoirs",
+              "description": "Chambres en Demi pension"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 603,
+    "name": "Aarbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 728,
+    "name": "Aclas Dafora",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 491,
+    "name": "Adamek-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 408,
+    "name": "Adolf-Noßberger-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 550,
+    "name": "Agroturissem Alp d'Err",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 710,
+    "name": " Albert-Heim-Hütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 208,
+    "name": "Almagellerhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 416,
+    "name": "Almtaler Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 411,
+    "name": "Alois-Günther-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 303,
+    "name": "Alpenrose-Hütte Zillertal",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 114,
+    "name": "Alpenrosenhütte im Brixental",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 630,
+    "name": "Alpe Pozza \"Vincenzo Lancia\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 722,
+    "name": "Alpe Rossiglion",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 467,
+    "name": "Alpwirtschaft Tanzboden",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 625,
+    "name": "Altissimo \"Damiano Chiesa\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 395,
+    "name": "Anhalter Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 146,
+    "name": "Annaberger Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 657,
+    "name": "Antica Osteria Dazio",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 172,
+    "name": "Anton-Karg-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 381,
+    "name": "Arbenbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 711,
+    "name": "Arthur-von-Schmid-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 63,
+    "name": "Ascher Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 235,
+    "name": "Augsburger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 589,
+    "name": "Äugstenhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 613,
+    "name": "August-Schuster-Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 262,
+    "name": "Austria-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 23,
+    "name": "Bächlitalhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 401,
+    "name": "Badener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 174,
+    "name": "Bad Kissinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 21,
+    "name": "Badushütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 579,
+    "name": "Balmhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 349,
+    "name": "Baltschiederklause SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 188,
+    "name": "Barmer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 715,
+    "name": "Base Camp SAC Uto",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 201,
+    "name": "Bayreuther Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 531,
+    "name": "Berggasthaus Brüsti",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 347,
+    "name": "Berghaus Alpenrösli",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 679,
+    "name": "Berghaus Alpiglen",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 663,
+    "name": "Berghaus Bäregg",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 438,
+    "name": "Berghaus Kleinwalsertal",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 52,
+    "name": "Berghaus Männdlenen",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 99,
+    "name": "Bergheim Au",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 737,
+    "name": "Bergheim Zans",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 549,
+    "name": "Berghütte Hohsaas",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 161,
+    "name": "Berglihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 107,
+    "name": "Bergsteigerunterkunft Lauschige Ecke",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 475,
+    "name": "Berg- und Skiheim Brixen im Thale",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 538,
+    "name": "Berg- und Skiheim Brixen im Thale - Ferienwohnung",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 105,
+    "name": "Berliner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 649,
+    "name": "Berta-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 72,
+    "name": "Bettelwurf-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 222,
+    "name": "Biberacher Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 572,
+    "name": "Bielefelder Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 254,
+    "name": "Bifertenhütte AACB",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 264,
+    "name": "Binntalhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 745,
+    "name": "Bivacco Corte Rossa",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 598,
+    "name": "Bivacco Piano della Parete",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 513,
+    "name": "Bivouac au Col de la Dent Blanche CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 288,
+    "name": "Bivouac de l'Envers des Dorées",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 602,
+    "name": "Biwak - Enzianhütte Rhön",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 81,
+    "name": "Blaueishütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 1,
+    "name": "Blüemlisalphütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 631,
+    "name": "Bocca di Trat \"Nino Pernici\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 218,
+    "name": "Bodenschneidhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 608,
+    "name": "Boé",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 485,
+    "name": "Bonn-Matreier Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 156,
+    "name": "Bordierhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 596,
+    "name": "Bosruck-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 181,
+    "name": "Brandenburger Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 366,
+    "name": "Braunschweiger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 143,
+    "name": "Bremer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 732,
+    "name": "Brisenhaus",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 9,
+    "name": "Britanniahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 389,
+    "name": "Brixner Hütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 206,
+    "name": "Brochhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 286,
+    "name": "Brunnenkopfhäuser",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 37,
+    "name": "Brunnihütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 210,
+    "name": "Brünnsteinhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 474,
+    "name": "Burghütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 511,
+    "name": "Cabane Arpitettaz CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 413,
+    "name": "Cabane Balavaux",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 67,
+    "name": "Cabane Barraud",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 681,
+    "name": "Cabane Bertol CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 573,
+    "name": "Cabane de Bounavaux",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 379,
+    "name": "Cabane de Chanrion CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 668,
+    "name": "Cabane de la Barmaz",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 436,
+    "name": "Cabane de la Dent Blanche CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 277,
+    "name": "Cabane de l'A Neuve CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 569,
+    "name": "Cabane de la Tourche",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 473,
+    "name": "Cabane de Prafleuri",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 706,
+    "name": "Cabane de Prarochet",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 382,
+    "name": "Cabane de Saleinaz CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 690,
+    "name": "Cabane des Audannes",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 575,
+    "name": "Cabane des Clés",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 22,
+    "name": "Cabane des Diablerets CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 10,
+    "name": "Cabane des Dix CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 726,
+    "name": "Cabane des Ecoulaies",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 574,
+    "name": "Cabane des Marindes",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 566,
+    "name": "Cabane de Sorniot",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 394,
+    "name": "Cabane d’Essertze",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 226,
+    "name": "Cabane des Vignettes CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 48,
+    "name": "Cabane des Violettes CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 494,
+    "name": "Cabane de Tracuit CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 400,
+    "name": "Cabane de Valsorey CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 279,
+    "name": "Cabane d'Orny CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 406,
+    "name": "Cabane du Carroz",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 333,
+    "name": "Cabane du Fenestral",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 311,
+    "name": "Cabane du Mont d’Or",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 278,
+    "name": "Cabane du Mountet CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 281,
+    "name": "Cabane du Trient CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 43,
+    "name": "Cabane du Vélan CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 280,
+    "name": "Cabane Rambert CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 176,
+    "name": "Calandahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 26,
+    "name": "Camona da Maighels CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 240,
+    "name": "Camona da Punteglias CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 42,
+    "name": "Capanna Adula CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 583,
+    "name": "Capanna Adula UTOE",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 477,
+    "name": "Capanna Alp da Canaa",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 479,
+    "name": "Capanna Alpe Nimi",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 447,
+    "name": "Capanna Alpe Sponda",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 198,
+    "name": "Capanna Alzasca CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 510,
+    "name": "Capanna Arena",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 8,
+    "name": "Capanna Basòdino (Robiei) CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 49,
+    "name": "Capanna Bovarina",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 565,
+    "name": "Capanna Brogoldone",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 730,
+    "name": "Capanna Cadagno",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 34,
+    "name": "Capanna Cadlimo CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 36,
+    "name": "Capanna Campo Tencia CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 580,
+    "name": "Capanna Cava",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 197,
+    "name": "Capanna Corno-Gries CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 20,
+    "name": "Capanna Cristallina CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 3,
+    "name": "Capanna da l'Albigna CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 18,
+    "name": "Capanna del Forno CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 7,
+    "name": "Capanna di Sciora CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 674,
+    "name": "Capanna Gambarogno",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 478,
+    "name": "Capanna Grossalp",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 168,
+    "name": "Capanna Monte Bar",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 221,
+    "name": "Capanna Motterascio CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 736,
+    "name": "Capanna Pian d’Alpe ",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 399,
+    "name": "Capanna Piansecco CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 419,
+    "name": "Capanna Poncione di Braga",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 582,
+    "name": "Capanna Quarnei",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 38,
+    "name": "Capanna Sasc Furä CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 135,
+    "name": "Capanna Scaletta",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 435,
+    "name": "Capanna Tomeo",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 642,
+    "name": "Caré Alto \"Dante Ongari\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 293,
+    "name": "Carl-von-Stahl-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 46,
+    "name": "Carschinahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 628,
+    "name": "Casarota \"Livio Ciola\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 694,
+    "name": "Cavardirashütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 551,
+    "name": "Cesa da Sett",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 645,
+    "name": "Cevedale \"Guido Larcher\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 68,
+    "name": "Chalet Lacombe",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 680,
+    "name": "Chalet La Source",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 50,
+    "name": "Chamanna Cluozza",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 386,
+    "name": "Chamanna Coaz CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 391,
+    "name": "Chamanna da Boval CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 25,
+    "name": "Chamanna d'Es-cha CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 290,
+    "name": "Chamanna Georgy",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 157,
+    "name": "Chamanna Jenatsch CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 182,
+    "name": "Chamonas d'Ela CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 78,
+    "name": "Chamonna Lischana CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 33,
+    "name": "Chamonna Tuoi CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 55,
+    "name": "Chelenalphütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 554,
+    "name": "Chesa sut Baselgia, Stugl",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 623,
+    "name": "Ciampedié",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 626,
+    "name": "Cima d'Asta \"Ottone Brentari\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 132,
+    "name": "Clarahütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 330,
+    "name": "Clubhaus Metsch",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 363,
+    "name": "Clubheim Fälensee",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 568,
+    "name": "Clubhütte Grubenalp",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 445,
+    "name": "Cresta-Biwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 165,
+    "name": "Cufercalhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 228,
+    "name": "Dammahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 256,
+    "name": "DAV-Haus-Spitzingsee",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 131,
+    "name": "Dessauer Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 11,
+    "name": "Doldenhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 697,
+    "name": "Domhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 31,
+    "name": "Dossenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 393,
+    "name": "Douglasshütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 310,
+    "name": "Dreischusterhütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 692,
+    "name": "Dresdner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 741,
+    "name": "Druesberghütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 493,
+    "name": "Edelraute-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 125,
+    "name": "Edelweiss-Hütte am Schneeberg",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 650,
+    "name": "Elberfelder Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 729,
+    "name": "Enderlinhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 355,
+    "name": "Ennstaler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 576,
+    "name": "Enzianhütte/Rhön",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 323,
+    "name": "Erfurter Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 721,
+    "name": "Erlanger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 133,
+    "name": "Essener und Rostocker Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 488,
+    "name": "E.-T.-Compton-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 398,
+    "name": "Etzlihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 354,
+    "name": "Falkenhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 383,
+    "name": "Feichtau-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 241,
+    "name": "Fergenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 489,
+    "name": "Filmoor-Standschützen-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 213,
+    "name": "Finsteraarhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 656,
+    "name": "Fluhseehütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 316,
+    "name": "Fraganter Schutzhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 317,
+    "name": "Franz-Fischer-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 675,
+    "name": "Franz-Senn-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 86,
+    "name": "Frassen-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 686,
+    "name": "Frederic-Simms-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 97,
+    "name": "Freiburgerhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 90,
+    "name": "Freschen-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 217,
+    "name": "Friedrichshafener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 170,
+    "name": "Friesenberghaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 528,
+    "name": "Fritz-Pflaum-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 83,
+    "name": "Fritz-Putz Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 350,
+    "name": "Fromatthütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 19,
+    "name": "Fründenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 180,
+    "name": "Furtschaglhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 454,
+    "name": "Fusshornbiwak",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 108,
+    "name": "Gablonzer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 472,
+    "name": "Galmihornhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 169,
+    "name": "Gamshütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 555,
+    "name": "Gamskarkogel-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 100,
+    "name": "Gaudeamushütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 571,
+    "name": "Gauenhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 27,
+    "name": "Gaulihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 66,
+    "name": "Gelmerhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 17,
+    "name": "Geltenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 173,
+    "name": "Gepatschhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 110,
+    "name": "Geraerhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 563,
+    "name": "Giessener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 634,
+    "name": "Giorgio Graffer al Grosté",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 39,
+    "name": "Glattalphütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 2,
+    "name": "Glecksteinhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 223,
+    "name": "Gleiwitzer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 342,
+    "name": "Glorer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 62,
+    "name": "Glungezer-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 718,
+    "name": "Gmundner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 106,
+    "name": "Goiserer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 410,
+    "name": "Gollinghütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 183,
+    "name": "Göppinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 567,
+    "name": "Grassenbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 122,
+    "name": "Greizer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 444,
+    "name": "Grialetsch-Hütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 196,
+    "name": "Grubenberghütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 312,
+    "name": "Gruebenhütte AACBs",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 154,
+    "name": "Gruttenhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 44,
+    "name": "Gspaltenhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 148,
+    "name": "Gufferthütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 665,
+    "name": "Guggihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 260,
+    "name": "Guttenberg-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 424,
+    "name": "Habsburg-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 716,
+    "name": "Hagener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 492,
+    "name": "Haindlkar-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 616,
+    "name": "Haldenseehaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 82,
+    "name": "Hallerangerhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 121,
+    "name": "Hannoverhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 537,
+    "name": "Hanslberghütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 504,
+    "name": "Hans Wödlhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 611,
+    "name": "Haus Don Bosco",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 282,
+    "name": "Haus und Hütte Hammer",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 610,
+    "name": "Haus Unken",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 439,
+    "name": "Haus Wäldele",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 456,
+    "name": "Heidelberger Hütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 89,
+    "name": "Heinrich-Hueter-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 152,
+    "name": "Heinrich-Schwaiger-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 727,
+    "name": "Hermann-von-Barth-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 306,
+    "name": "Hess-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 377,
+    "name": "Hexenseehütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 369,
+    "name": "Hildesheimer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 496,
+    "name": "Hinterbalmhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 257,
+    "name": "Hochfeilerhütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 370,
+    "name": "Hochjoch Hospiz",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 725,
+    "name": "Hochlandhütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 343,
+    "name": "Hochlecken-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 130,
+    "name": "Hochrieshütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 328,
+    "name": "Hochweißstein-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 503,
+    "name": "Hofalm-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 111,
+    "name": "Hofpürgl-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 612,
+    "name": "Hohenzollernhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 24,
+    "name": "Hohganthütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 374,
+    "name": "Hollandiahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 73,
+    "name": "Höllentalangerhütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 425,
+    "name": "Hubertus-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 388,
+    "name": "Hüfihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 32,
+    "name": "Hundsteinhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 526,
+    "name": "Hüttenrunde Gipfelwege",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 53,
+    "name": "Igloo des Pantalons Blancs",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 577,
+    "name": "Ignaz-Mattis-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 144,
+    "name": "Ingolstädter Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 320,
+    "name": "Innsbrucker Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 556,
+    "name": "Ischler Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 191,
+    "name": "Jamtalhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 258,
+    "name": "Jonsdorfer Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 344,
+    "name": "Jugendbildungsstätte Winterraum",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 687,
+    "name": "Julius Payer Hütte (Rif. Julius Payer)",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 147,
+    "name": "Julius-Seitner-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 95,
+    "name": "Kaltenberghütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 177,
+    "name": "Kampthaler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 195,
+    "name": "Kärlingerhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 461,
+    "name": "Karl-Stein-Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 203,
+    "name": "Karl-von-Edel-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 87,
+    "name": "Karwendelhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 178,
+    "name": "Kasseler Hütte (im Zillertal)",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 677,
+    "name": "Kaufbeurer Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 271,
+    "name": "Kaunergrathütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 669,
+    "name": "Keinprecht-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 468,
+    "name": "Kelchalm (Bochumer Hütte)",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 415,
+    "name": "Kellerjoch-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 4,
+    "name": "Kesch-Hütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 505,
+    "name": "Kistenpasshütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 597,
+    "name": "Klagenfurter Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 79,
+    "name": "Klostertaler Umwelthütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 149,
+    "name": "Knorrhütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 12,
+    "name": "Konkordiahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 502,
+    "name": "Konstanzer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 373,
+    "name": "Kreuzeckhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 274,
+    "name": "Kröntenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 292,
+    "name": "Kürsinger-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 64,
+    "name": "La Borbuintze",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 453,
+    "name": "Lämmerenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 437,
+    "name": "Lamsenjochhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 215,
+    "name": "Landsberger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 365,
+    "name": "Langtalereckhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 689,
+    "name": "Läntahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 558,
+    "name": "Lauteraarhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 13,
+    "name": "Leglerhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 139,
+    "name": "Lenggrieser Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 717,
+    "name": "Leutschachhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 5,
+    "name": "Lidernenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 684,
+    "name": "Lienzer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 428,
+    "name": "Lilienfelder Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 297,
+    "name": "Lindauer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 720,
+    "name": "Lizumer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 243,
+    "name": "Lobhornhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 548,
+    "name": "Lonza Biwak",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 578,
+    "name": "Lucknerhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 546,
+    "name": "Ludwigsburger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 733,
+    "name": "Magdeburger Hütte (Rif. Cremona alla Stua)",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 641,
+    "name": "Mandron \"Città di Trento\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 654,
+    "name": "Mannheimer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 442,
+    "name": "Marteller Hütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 476,
+    "name": "Martin-Busch-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 615,
+    "name": "Martinsmadhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 332,
+    "name": "Medelserhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 126,
+    "name": "Meraner Hütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 273,
+    "name": "Millstätter Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 420,
+    "name": "Mischabelhütte AACZ",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 378,
+    "name": "Mischabeljochbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 338,
+    "name": "Mittellegihütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 117,
+    "name": "Mödlinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 77,
+    "name": "Mönchsjochhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 651,
+    "name": "Monte Calino \"San Pietro\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 647,
+    "name": "Monte Casale \"Don Zio Pisoni\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 340,
+    "name": "Monte-Leone-Hütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 6,
+    "name": "Monte Rosa Hütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 609,
+    "name": "Monzoni \"Torquato Taramelli\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 570,
+    "name": "Müllerhütte - Rif. Cima Libera",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 150,
+    "name": "Münchner Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 543,
+    "name": "Munt la Reita",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 160,
+    "name": "Muttekopf-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 14,
+    "name": "Mutthornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 229,
+    "name": "Muttseehütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 746,
+    "name": "Nauderer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 116,
+    "name": "Neue Bamberger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 162,
+    "name": "Neue Bonner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 385,
+    "name": "Neue Fürther Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 103,
+    "name": "Neue Heilbronner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 129,
+    "name": "Neue Magdeburger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 58,
+    "name": "Neue Prager Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 275,
+    "name": "Neue Regensburger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 545,
+    "name": "Neue Reichenberger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 96,
+    "name": "Neue Reutlinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 237,
+    "name": "Neue Thüringer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 452,
+    "name": "Neue Traunsteiner Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 429,
+    "name": "Neunkirchner Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 319,
+    "name": "Niedersachsenhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 202,
+    "name": "Nördlinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 124,
+    "name": "Nürnberger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 15,
+    "name": "Oberaarjochhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 47,
+    "name": "Oberaletschhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 591,
+    "name": "Obere Maxlraineralm",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 230,
+    "name": "Oberetteshütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 138,
+    "name": "Oberlandhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 300,
+    "name": "Oberwalder-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 655,
+    "name": "Oberzalimhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 268,
+    "name": "Obstansersee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 119,
+    "name": "Olpererhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 748,
+    "name": "Ostegghütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 482,
+    "name": "Ostello Fusio",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 585,
+    "name": "Ostello GiovaniBosco",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 617,
+    "name": "Ostpreussenhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 536,
+    "name": "Ostwandlager",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 272,
+    "name": "Otto- Mayr-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 742,
+    "name": "Paludei",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 232,
+    "name": "Passauer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 430,
+    "name": "Peilstein-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 633,
+    "name": "Peller",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 141,
+    "name": "Peter-Wiechenthaler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 723,
+    "name": "Pfälzerhütte LAV",
+    "country": "LI"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 179,
+    "name": "Pfeis-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 239,
+    "name": "Pforzheimer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 207,
+    "name": "Plauener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 185,
+    "name": "Porze-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 283,
+    "name": "Potsdamer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 402,
+    "name": "Preintalerhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 336,
+    "name": "Priel-Schutzhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 407,
+    "name": "Priener Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 270,
+    "name": "Prinz-Luitpoldhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 607,
+    "name": "Prova",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 509,
+    "name": "Pühringer-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 285,
+    "name": "Radlseehütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 246,
+    "name": "Ramozhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 707,
+    "name": "Rappenseehütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 205,
+    "name": "Rastkogelhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 76,
+    "name": "Refuge des Petoudes",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 592,
+    "name": "Refuge du lac de Derborence",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 335,
+    "name": "Refuge Giacomini",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 666,
+    "name": "Reichenhaller Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 128,
+    "name": "Reintalangerhütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 136,
+    "name": "Richterhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 248,
+    "name": "Rieder Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 145,
+    "name": "Riemannhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 412,
+    "name": "Rieserfernerhütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 171,
+    "name": "Riffelseehütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 595,
+    "name": "Rifugio Alpe Compiett",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 539,
+    "name": "Rifugio Alpe Fontana",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 480,
+    "name": "Rifugio Alpe Masnée",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 481,
+    "name": "Rifugio Alpe Spluga",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 735,
+    "name": "Rifugio Bassa di Nara ",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 594,
+    "name": "Rifugio Biasagn",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 734,
+    "name": "Rifugio Gana Rossa",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 698,
+    "name": "Rifugio Garzonera",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 581,
+    "name": "Rifugio Giümela",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 593,
+    "name": "Rifugio Lago",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 484,
+    "name": "Rifugio la Reggia",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 517,
+    "name": "Rifugio Maria Luisa",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 516,
+    "name": "Rifugio Pian di Crest",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 483,
+    "name": "Rifugio Ribia",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 341,
+    "name": "Rifugio Saoseo CAS",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 584,
+    "name": "Rifugio Scaradra",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 514,
+    "name": "Ringelspitzhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 624,
+    "name": "Roda di Vael",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 619,
+    "name": "Rosetta \"Giovanni Pedrotti\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 662,
+    "name": "Rotgüldensee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 334,
+    "name": "Rothornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 404,
+    "name": "Rotondohütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 69,
+    "name": "Rotstockhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 498,
+    "name": "Rottalhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 104,
+    "name": "Rotwandhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 41,
+    "name": "Rugghubelhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 115,
+    "name": "Rüsselsheimer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 309,
+    "name": "Saarbrücker Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 646,
+    "name": "Saènt \"Silvio Dorigoni\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 552,
+    "name": "Sägässähenki Jenisberg",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 227,
+    "name": "Salbithütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 559,
+    "name": "Salbitschijenbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 159,
+    "name": "Salm-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 486,
+    "name": "Sardonahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 88,
+    "name": "Sarotla-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 101,
+    "name": "Saupsdorfer Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 348,
+    "name": "Schalijochbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 75,
+    "name": "Schesaplana Hütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 446,
+    "name": "Schilthornhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 284,
+    "name": "Schlernbödelehütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 353,
+    "name": "Schneealpen-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 327,
+    "name": "Schneibsteinhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 308,
+    "name": "Schönbielhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 204,
+    "name": "Schreckhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 562,
+    "name": "Schwarzenberghütte (DAV)",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 685,
+    "name": "Schwarzensteinhütte (Rif. al Sasso Nero)",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 189,
+    "name": "Schwarzwasserhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 242,
+    "name": "Seetalhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 261,
+    "name": "Seethalerhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 276,
+    "name": "Sesvennahütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 627,
+    "name": "Sette Selle",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 269,
+    "name": "Sewenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 614,
+    "name": "Sidelenhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 705,
+    "name": "Siegerlandhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 515,
+    "name": "Silberhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 466,
+    "name": "Sillianer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 80,
+    "name": "Silvrettahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 219,
+    "name": "Simony-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 405,
+    "name": "Skihütte Elm",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 417,
+    "name": "Ski- und Ferienhaus Obergestelen",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 287,
+    "name": "Soiernhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 294,
+    "name": "Sölden-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 714,
+    "name": "Solstein-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 469,
+    "name": "Sonnschienhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 244,
+    "name": "Spannorthütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 682,
+    "name": "Spitzmeilenhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 57,
+    "name": "Spitzsteinhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 304,
+    "name": "Staldenmaadhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 693,
+    "name": "Starkenburger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 85,
+    "name": "Staufner Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 639,
+    "name": "Stavèl \"Francesco Denza\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 497,
+    "name": "Steinsee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 547,
+    "name": "Steinwaldhütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 691,
+    "name": "Stickler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 632,
+    "name": "Stivo \"Prospero Marchetti\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 527,
+    "name": "Stockhornbiwak SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 84,
+    "name": "Stöhrhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 200,
+    "name": "Straubinger Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 184,
+    "name": "Stripsenjoch-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 220,
+    "name": "Stüdlhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 192,
+    "name": "Stuttgarter Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 190,
+    "name": "Sudetendeutsche Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 648,
+    "name": "Sulzenauhütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 326,
+    "name": "Sunnehüsi",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 525,
+    "name": "Sustlihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 387,
+    "name": "Sylvan-Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 495,
+    "name": "Talherberge Zwieselstein",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 676,
+    "name": "Tannheimer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 231,
+    "name": "Taschachhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 51,
+    "name": "Täschhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 507,
+    "name": "Taubensteinhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 16,
+    "name": "Terrihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 587,
+    "name": "Testhütte Carolin",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 403,
+    "name": "Theodor-Körner-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 301,
+    "name": "Tiefrastenhütte",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 305,
+    "name": "Tierberglihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 553,
+    "name": "Tigias Plang Faller",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 91,
+    "name": "Tilisuna-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 163,
+    "name": "Tölzer Hütte am Schafreuter",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 166,
+    "name": "Topalihütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 636,
+    "name": "Tosa \"Tommaso Pedrotti\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 92,
+    "name": "Totalp-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 324,
+    "name": "Traunsteiner Skihütte/ Winklmoosalm",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 688,
+    "name": "Treschhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 28,
+    "name": "Trifthütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 487,
+    "name": "Tschiervahütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 236,
+    "name": "Tübinger Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 530,
+    "name": "Turtmannhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 212,
+    "name": "Tutzinger Hütte",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 637,
+    "name": "Val d'Ambiez \"Silvio Agostini\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 640,
+    "name": "Val d'Amola \"Giovanni Segantini\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 643,
+    "name": "Val di Fumo",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 396,
+    "name": "Valentinalm",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 318,
+    "name": "Vermigelhütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 238,
+    "name": "Vernagthütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 644,
+    "name": "Vioz \"Mantova\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 490,
+    "name": "Voisthaler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 724,
+    "name": "von-Schmidt-Zabierow-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 259,
+    "name": "Voralphütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 224,
+    "name": "Wanderheim Kreuzmoos",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 683,
+    "name": "Wangenitzsee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 151,
+    "name": "Watzmannhaus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 216,
+    "name": "Weidener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 672,
+    "name": "Weisshornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 209,
+    "name": "Weissmieshütten SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 508,
+    "name": "Welser Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 541,
+    "name": "Westfalenhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 434,
+    "name": "Wetterkogler-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 234,
+    "name": "Wiesbadener Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 164,
+    "name": "Wildhornhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 65,
+    "name": "Wildstrubelhütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 214,
+    "name": "Windegghütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 45,
+    "name": "Windgällenhütte AACZ",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 263,
+    "name": "Winteregghütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 267,
+    "name": "Wolayersee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 372,
+    "name": "Wolfratshauser Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 667,
+    "name": "Wormser Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 520,
+    "name": "Würgauer Haus",
+    "country": "DE"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 298,
+    "name": "Württembergerhaus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 638,
+    "name": "XII Apostoli \"Fratelli Garbari\"",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 253,
+    "name": "Ybbstaler-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 371,
+    "name": "Zapporthütte SAC",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 211,
+    "name": "Zeller-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 295,
+    "name": "Zeppezauer-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 266,
+    "name": "Zittauer Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 695,
+    "name": "Zittel-Haus",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 109,
+    "name": "Zollnersee-Hütte",
+    "country": "AT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 337,
+    "name": "Zsigmondyhütte (Rif. Comici)",
+    "country": "IT"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 30,
+    "name": "Zwinglipasshütte",
+    "country": "CH"
+  },
+  {
+    "dataSource": "hut-reservation.org",
+    "id": 346,
+    "name": "ZZZ TEST Monbijouhütte",
+    "country": "CH"
+  }
+]

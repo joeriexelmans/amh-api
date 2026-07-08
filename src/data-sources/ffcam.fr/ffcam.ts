@@ -1,7 +1,7 @@
 import { makeCache } from "../../util/cache";
 import * as cheerio from 'cheerio';
 import {distance} from "fastest-levenshtein";
-import { deepLog } from "../../util/deep_inspect";
+import { deepLog } from "../../util/log";
 import { Category, CategoryAvailability, CategoryDescription, DataSource, HutAvailability, HutInfo } from "../../types";
 import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 
@@ -25,18 +25,18 @@ const langMap = {
 const listHutsInternal = makeCache(
   STATIC_INFO_TIMEOUT,
   async _ => {
-    console.log('requesting FFCAM hut list ...');
-    const res = await fetch(BOOKING_URL);
+    deepLog('requesting FFCAM hut list ...');
+    const headers = new Headers();
+    const res = await fetch(BOOKING_URL, {
+      headers,
+    });
     if (res.ok) {
       const text = await res.text();
-      const structuresList = findJSON(text, /BK\.structuresList = (.*);\n/);
+      const structuresList = findJSON(text, /BK\.structuresList = (.*);\n/); // only FFCAM huts
       // @ts-ignore
       const categoryLabels = Object.entries(Object.values(findJSON(text, /BK\.categoryLabels = (.*);\n/))[0].productCategory);
-      // deepLog(structuresList);
-      // deepLog(categoryLabels);
       const result = Object.entries(structuresList).map(([id, hi]) => {
         const hutInfo = hi as any;
-        // deepLog(hutInfo);
         return {
           dataSource: "ffcam.fr",
           id,
@@ -48,7 +48,7 @@ const listHutsInternal = makeCache(
             "BK_STRUCTURECATEGORY:CHALET": "CHALET",
           }[hutInfo.structureType],
           sleepingPlaces: {
-            categories: hutInfo.productsCategories.map((cat: any) => {
+            categories: (hutInfo.productsCategories || []).map((cat: any) => {
               return {
                 categoryID: cat.oid,
                 description: categoryLabels.map(([language, labels]) => {
@@ -65,7 +65,7 @@ const listHutsInternal = makeCache(
           }
         }
       });
-      console.log(`got ${result.length} FFCAM huts`);
+      deepLog(`got ${result.length} FFCAM huts`);
       return result;
     }
     else {
@@ -81,7 +81,7 @@ const getHutInfoFFCAM = makeCache(
   async hutId => {
     const allHuts = listHutsFFCAM();
     const hut = (await allHuts.result).find(x => x.id === hutId);
-    console.log(`getting FFCAM hut ${hutId} info`);
+    deepLog(`getting FFCAM hut ${hutId} info`);
     const res = await fetch(HUTINFO_URL);
     if (res.ok) {
       const text = await res.text();

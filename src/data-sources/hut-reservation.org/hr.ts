@@ -2,6 +2,7 @@ import { CacheEntry, makeCache } from "../../util/cache";
 import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 import { Category, DataSource, Hut } from "../../types";
 import { credentials } from "./config";
+import { deepLog } from "../../util/log";
 
 const BASE_URL = "https://www.hut-reservation.org/api/v1";
 
@@ -10,7 +11,7 @@ loginFormData.append("username", credentials.username);
 loginFormData.append("password", credentials.password);
 
 async function login() {
-  console.log('hut-reservation.org attempt login...');
+  deepLog('hut-reservation.org attempt login...');
 
   const csrf = await fetch(BASE_URL + "/csrf", {
     credentials: 'include',
@@ -38,7 +39,7 @@ async function login() {
     if (result.status >= 400) {
       throw new Error("login failed")
     }
-    console.log('hut-reservation.org login successful');
+    deepLog('hut-reservation.org login successful');
     return headers;
   });
 }
@@ -56,7 +57,7 @@ async function assureLoggedIn(callback: (h: Headers) => Promise<Response>) {
     return assureLoggedIn(callback); // try again
   }
   else {
-    console.log('unknown error');
+    deepLog('unknown error');
     throw new Error("unknown error");
   }
 }
@@ -65,14 +66,13 @@ const listHutsInternal = makeCache(
   STATIC_INFO_TIMEOUT, // <-- list of huts is unlikely to change frequently, so we cache it for one hour
   async _ => {
     const json = await assureLoggedIn(headers => {
-      console.log('requesting OEAV/DAV/AVS/SAC hut list ...');
+      deepLog('requesting OEAV/DAV/AVS/SAC hut list ...');
       return fetch(BASE_URL + "/manage/hutsList", {
         credentials: 'include',
         headers,
       });
     });
     const result = json.map((hut: any) => {
-      console.log(hut);
       return {
         dataSource: "hut-reservation.org",
         id: hut.hutId,
@@ -80,10 +80,10 @@ const listHutsInternal = makeCache(
         country: hut.hutCountry,
       };
     });
-    console.log(`got ${result.filter((x: Hut) => x.country === "IT").length} AVS huts`);
-    console.log(`got ${result.filter((x: Hut) => x.country === "DE").length} DAV huts`);
-    console.log(`got ${result.filter((x: Hut) => x.country === "CH").length} SAC huts`);
-    console.log(`got ${result.filter((x: Hut) => x.country === "AT").length} OEAV huts`);
+    deepLog(`got ${result.filter((x: Hut) => x.country === "IT").length} AVS huts`);
+    deepLog(`got ${result.filter((x: Hut) => x.country === "DE").length} DAV huts`);
+    deepLog(`got ${result.filter((x: Hut) => x.country === "CH").length} SAC huts`);
+    deepLog(`got ${result.filter((x: Hut) => x.country === "AT").length} OEAV huts`);
 
     return result;
 
@@ -95,7 +95,7 @@ const getHutInfoHR = makeCache(
   STATIC_INFO_TIMEOUT,
   async hutId => {
     const json = await assureLoggedIn(headers => {
-      console.log(`getting OEAV/DAV/AVS/SAC hut ${hutId} info`);
+      deepLog(`getting OEAV/DAV/AVS/SAC hut ${hutId} info`);
       return fetch(BASE_URL + "/reservation/hutInfo/" + hutId, {
         credentials: 'include',
         headers,
@@ -135,7 +135,7 @@ const getHutAvailabilityHR = makeCache(
     const hutInfo = await getHutInfoHR(hutId).result;
 
     const json = await assureLoggedIn(headers => {
-      console.log("fetching HR hut availability " + hutId);
+      deepLog("fetching HR hut availability " + hutId);
       return fetch(BASE_URL + "/reservation/getHutAvailability?hutId=" + hutId, {
         credentials: 'include',
         headers,

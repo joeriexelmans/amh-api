@@ -13,6 +13,8 @@ A number of people have already created web apps that bring together information
   - [hutfinder.app](https://hutfinder.app/)
   - [refugesdesalpes.com](https://refugesdesalpes.com/) FFCAM & SAC
   - [madetohike.com/hut-map](https://madetohike.com/hut-map)
+  - [Mont Blanc Refuge Availability Checker](https://github.com/AlexYaroshenko/montblanc/tree/main)
+  - [Nuit en Montagne](https://www.nuit.en-montagne.fr/) FFCAM crawler (source code on [GitHub](https://github.com/maxenceprog/nuit-en-montagne/tree/main))
 
 However:
 
@@ -55,8 +57,15 @@ Currently, two data sources have been implemented:
  - [ffcam.fr](https://ffcam.fr) does not have a public API, so I crawl the HTML of their booking wizard and also another web page of theirs listing all huts. No account is necessary to for this data source.
 
 What's missing:
+
  - **France** has many private (non-FFCAM) huts as well. Some (e.g., in the Vanoise parc) all use a single booking system, so it's quite realistic that a bunch more will be added soon.
+    
+    The following page gives a nice overview of huts in different parts of France:
+
+       https://www.gites-refuges.com/www/centrale_reservation.htm
+
  - **Italy**: I have to check what kind of reservation system(s) exist there.
+
  - **private huts** in Austria, Germany, Switzerland, South-Tirol (although there aren't that much).
 
 ## Running
