@@ -60,9 +60,7 @@ What's missing:
 
  - **France** has many private (non-FFCAM) huts as well. Some (e.g., in the Vanoise parc) all use a single booking system, so it's quite realistic that a bunch more will be added soon.
     
-    The following page gives a nice overview of huts in different parts of France:
-
-       https://www.gites-refuges.com/www/centrale_reservation.htm
+    The following page gives a nice overview of huts in different parts of France: https://www.gites-refuges.com/www/centrale_reservation.htm
 
  - **Italy**: I have to check what kind of reservation system(s) exist there.
 
