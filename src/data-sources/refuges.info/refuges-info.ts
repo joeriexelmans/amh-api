@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio';
 import { HutInfo } from '../../types';
+import { deepLog } from '../../util/log';
 
 const BASE_URL = "https://www.refuges.info/api";
 
@@ -37,21 +38,26 @@ export async function lookupHutByName(name: string) {
 }
 
 export async function getHutInfo(pointId: string): Promise<HutInfo> {
-  const res = await fetch(`${BASE_URL}/point/${pointId}`);
+  const url = `${BASE_URL}/point?id=${pointId}`;
+  const res = await fetch(url);
+  // deepLog(url)
   if (res.ok) {
-    const text = await res.text();
-    const doc =  new DOMParser().parseFromString(text, "application/xml");
-    const coord = doc.querySelector("nodes > node > coord");
-    const lat = Number(coord?.querySelector("lat")?.textContent.trim());
-    const lng = Number(coord?.querySelector("long")?.textContent.trim());
-    const alt = Number(coord?.querySelector("alt")?.textContent.trim());
-    return {
-      location: {
-        lat, lng, alt
-      },
-    } as HutInfo;
+    const json = await res.json();
+    // deepLog(json);
+    if (json.features.length === 1) {
+      const f = json.features[0];
+      // deepLog(f.properties.nom);
+      const [lat, lng] = f.geometry.coordinates;
+      const alt = f.properties.coord.alt;
+      return {
+        location: {
+          lat, lng, alt
+        },
+        sleepingPlaces: {
+          totalBeds: f.properties.places.valeur,
+        }
+      } as HutInfo;
+    }
   }
-  else {
-    throw new Error("not found");
-  }
+  throw new Error("not found");
 }

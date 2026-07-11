@@ -1,6 +1,7 @@
 import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 import { DataSource, Hut, HutAvailability } from "../../types";
 import { makeCache } from "../../util/cache";
+import { deepLog } from "../../util/log";
 import { getHutInfo, lookupHutByName } from "../refuges.info/refuges-info";
 import { etapeRestHutListVanoise } from "./hut-list";
 
@@ -20,10 +21,12 @@ async function listHutsEtapeRest() {
 async function getHutInfoEtapeRest(hutId: string) {
   const hutName = (await listHutsEtapeRest()).find(hut => hut.id === hutId)?.name
   if (hutName) {
+    // console.log(hutName);
     // lookup hut info on refuges.info data source
     const info = await lookupHutByName(hutName);
     if (info.length === 1) {
       const hutInfo = await getHutInfo(info[0].pointId);
+      // deepLog('found hut' + hutName + ' pointId: ' + info[0].pointId);
       if (hutInfo) {
         return hutInfo;
       }
