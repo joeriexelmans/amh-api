@@ -10,11 +10,16 @@ The Alps have hundreds of mountain huts. Most require upfront reservation to spe
 
 A number of people have already created web apps that bring together information from different reservation systems, such as:
 
-  - [hutfinder.app](https://hutfinder.app/)
-  - [refugesdesalpes.com](https://refugesdesalpes.com/) FFCAM & SAC
-  - [madetohike.com/hut-map](https://madetohike.com/hut-map)
-  - [Mont Blanc Refuge Availability Checker](https://github.com/AlexYaroshenko/montblanc/tree/main)
-  - [Nuit en Montagne](https://www.nuit.en-montagne.fr/) FFCAM crawler (source code on [GitHub](https://github.com/maxenceprog/nuit-en-montagne/tree/main))
+  - crawlers
+    - [hutfinder.app](https://hutfinder.app/) crawls hut-reservation.org
+    - [refugesdesalpes.com](https://refugesdesalpes.com/) crawls FFCAM & SAC
+    - [Nuit en Montagne](https://www.nuit.en-montagne.fr/) crawls FFCAM (source code on [GitHub](https://github.com/maxenceprog/nuit-en-montagne/tree/main))
+    - [madetohike.com](https://madetohike.com/hut-map) vibe-coded web crawler (contains duplicate entries, errors). Only 'static' data.
+    - [Mont Blanc Refuge Availability Checker](https://github.com/AlexYaroshenko/montblanc/tree/main)
+  - community hut databases (only 'static' data)
+    - [mountainhuts.info](http://www.mountainhuts.info/map) huts all over Europe, including Eastern-Europe.
+    - [refuges.info](https://www.refuges.info/) mostly French huts. Public (documented) API.
+
 
 However:
 
