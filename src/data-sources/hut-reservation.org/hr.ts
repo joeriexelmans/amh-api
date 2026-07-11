@@ -75,7 +75,7 @@ const listHutsInternal = makeCache(
     const result = json.map((hut: any) => {
       return {
         dataSource: "hut-reservation.org",
-        id: hut.hutId,
+        id: hut.hutId.toString(),
         name: hut.hutName,
         country: hut.hutCountry,
       };

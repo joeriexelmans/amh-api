@@ -2,12 +2,12 @@ import { BOOKING_INFO_TIMEOUT, STATIC_INFO_TIMEOUT } from "../../config";
 import { DataSource, Hut, HutAvailability } from "../../types";
 import { makeCache } from "../../util/cache";
 import { getHutInfo, lookupHutByName } from "../refuges.info/refuges-info";
-import { etapeRestHutList } from "./hut-list";
+import { etapeRestHutListVanoise } from "./hut-list";
 
 const BASE_URL = "https://etape-rest.for-system.com/index.aspx/index.aspx";
 
 async function listHutsEtapeRest() {
-  return etapeRestHutList.map(hut => {
+  return etapeRestHutListVanoise.map(hut => {
     return {
       dataSource: "etape-rest.for-system.com",
       id: hut.id,
